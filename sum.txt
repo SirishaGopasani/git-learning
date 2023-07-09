@@ -2,3 +2,4 @@ int a,b;
 printf("entre the values:");
 sum=a+b;
 printf("%d",sum);
+hai
